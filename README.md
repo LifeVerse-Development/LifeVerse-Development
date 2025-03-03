@@ -11,13 +11,19 @@ Our goal is to create a **realistic open-world experience** with a story spannin
 A **C++-based Unreal Engine 5 game**, offering a fully interactive world with realistic physics, economy, and NPCs.  
 
 ### 🌐 LifeVerse Website  
-Our website, built with **React.js & TypeScript**, serves as a central platform for news, community interactions, and updates.  
+Our website, built with **React.js, TypeScript & Tailwind CSS**, serves as a central platform for news, community interactions, and updates.  
 
 ### 🖥️ LifeVerse API  
 Our **Node.js/Express API with TypeScript & MongoDB** powers the entire LifeVerse ecosystem with data and services.  
 
 ### 🤖 LifeVerse Discord Bot  
 A **TypeScript-based Discord bot with MongoDB**, featuring **XP systems, team management, moderation, tournaments, and much more**.  
+
+### 🖥️ LifeVerse Software  
+A **C++-based software** is in development, expanding the LifeVerse ecosystem with advanced functionalities.  
+
+### 📱 LifeVerse Mobile App  
+A **Flutter-based mobile app** is planned, bringing LifeVerse to smartphones and tablets.  
 
 ---
 
@@ -28,9 +34,11 @@ A **TypeScript-based Discord bot with MongoDB**, featuring **XP systems, team ma
 | Unreal Engine 5   | Main game development       |
 | C++               | Performance & game logic    |
 | React.js          | Website development         |
+| Tailwind CSS      | Website styling             |
 | TypeScript        | API, bot & website logic    |
 | Node.js / Express | API backend                 |
 | MongoDB           | Database for API & bot      |
+| Flutter           | Mobile app development      |
 | GitLab CI/CD      | Automated deployment        |
 | GitHub CI/CD      | Automated deployment        |
 
